@@ -4,7 +4,7 @@ A YOLO11-based object detection app that identifies and classifies acne lesions 
 
 ## 🚀 Live Demo
 
-👉 [https://skin-acne-detection-jyzfgnuewnyygisqcu5qey.streamlit.app/](https://skin-acne-detection-jyzfgnuewnyygisqcu5qey.streamlit.app/)
+👉 [https://skin-acne-detection-eopt554w7bvhpqswkbtgsg.streamlit.app/](https://skin-acne-detection-eopt554w7bvhpqswkbtgsg.streamlit.app/)
 
 ## Features
 
